@@ -3,7 +3,7 @@
 ! Last modified: 2024-07-13
 ! Expires: 1 days
 ! Version: 20240713001
-! Source: https://github.com/barabasz/config/blob/main/ublock/barabasz.txt
+! Source: https://github.com/barabasz/ads-filter
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 !----------------------- Allegro -----------------------!
