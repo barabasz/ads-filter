@@ -5,6 +5,9 @@
 ! Version: 20240713001
 ! Source: https://github.com/barabasz/ads-filter
 ! MIT License: ./blob/main/LICENSE
+!------------------------ WHITELIST --------------------!
+@@||barabasz.in^$document
+@@||*.barabasz.in^$document
 
 !----------------------- Allegro -----------------------!
 allegro.pl##div[data-role="showcase"]>ol
