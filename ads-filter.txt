@@ -6,8 +6,10 @@
 ! Source: https://github.com/barabasz/ads-filter
 ! MIT License: ./blob/main/LICENSE
 !------------------------ WHITELIST --------------------!
-@@||barabasz.in^$document
-@@||*.barabasz.in^$document
+@@||barabasz.in
+@@||*.barabasz.in
+@@||github.com/barabasz
+@@||raw.githubusercontent.com/barabasz
 
 !----------------------- Allegro -----------------------!
 allegro.pl##div[data-role="showcase"]>ol
